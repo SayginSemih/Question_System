@@ -51,7 +51,7 @@ let questions=[
         B: "29 Ekim 1923",
         C: "10 Kasım 1938",
         D: "19 Kasım 1919",
-        CEVAP: "229 Ekim 1923"
+        CEVAP: "29 Ekim 1923"
     },
     {
         ID: 7,
